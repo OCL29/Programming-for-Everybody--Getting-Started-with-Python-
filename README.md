@@ -14,27 +14,27 @@ hello world
 
 <h3>Assignment 2.2</h3>
 
-This assignment uses raw_input to prompt a user for their name and print hello them.
+This assignment uses raw_input to prompt a user for their name and print hello them.<br>
 
 <b>input</b><br>
 
-Sarah<br>
+Sarah<br><br>
 
-<b>output</b><br>
+<b>output</b><br><br>
 
-Hello Sarah<br>
+Hello Sarah<br><br>
 
 <h3>Assignment 2.3</h3>
 
 This assignment prompt the user for hours and rate per hour.<br>
 Then compute gross pay. 35 hours and a rate of 2.75 will pay 96.25<br>
 
-<b>input</b><br>
+<b>input</b><br><br>
 
 35<br>
-2.75<br>
+2.75<br><br>
 
-<b>output</b><br>
+<b>output</b><br><br>
 
-96.25<br>
+96.25<br><br>
 </ol>
