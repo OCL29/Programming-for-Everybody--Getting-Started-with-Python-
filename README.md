@@ -37,4 +37,38 @@ Then compute gross pay. 35 hours and a rate of 2.75 will pay 96.25<br><br>
 <b>output</b><br><br>
 
 96.25<br><br>
+
+<li><h1>Chapter Three Conditional Code</h1></li>
+
+<h3>Assignment 3.1</h3>
+
+This assignment uses raw_input to prompt a user for hours and rate to compute gross pay.<br>
+Pay the hourly rate for the hours up to 40 and 1.5 times the hourly rate for all hours worked above 40 hours.<br><br>
+<b>input</b><br>
+
+45<br>
+10.5<br><br>
+
+<b>output</b><br><br>
+
+498.75<br><br>
+
+<h3>Assignment 3.3</h3>
+
+This assignment prompt the user for a score between 0.0 and 1.0. If the score is out of range, print an error.<br>
+If the score is between 0.0 and 1.0, print a grade using the following table<br>
+Score Grade<br>
+ >= 0.9 A<br>
+ >= 0.8 B<br>
+ >= 0.7 C<br>
+ >= 0.6 D<br>
+ < 0.6 F<br>
+ If the user enters a value out of range, print a suitable error message and exit.<br><br>
+<b>input</b><br><br>
+
+0.85<br><br>
+
+<b>output</b><br><br>
+
+B<br><br>
 </ol>
