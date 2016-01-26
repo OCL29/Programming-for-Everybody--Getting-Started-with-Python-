@@ -78,7 +78,7 @@ B<br><br>
 
 This assignment uses raw_input to prompt a user for hours and rate to compute gross pay.<br>
 Pay the hourly rate for the hours up to 40 and 1.5 times the hourly rate for all hours worked above 40 hours.<br>
-Create a function do this computation<br><br>
+Create a function do this computation.<br><br>
 
 <b>input</b><br>
 
