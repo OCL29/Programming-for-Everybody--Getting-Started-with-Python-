@@ -89,4 +89,29 @@ Create a function do this computation.<br><br>
 
 498.75<br><br>
 
+<li><h1>Chapter Five Loops and Iteration</h1></li>
+
+<h3>Assignment 5.2</h3>
+
+This assignment that repeatedly prompts a user for integer numbers until the user enters 'done'.<br>
+Once 'done' is entered, print out the largest and smallest of the numbers.<br>
+If the user enters anything other than a valid number catch it with a try/except and put out an appropriate message and ignore the number.<br><br>
+
+<b>input</b><br>
+
+5<br>
+7<br>
+dot<br>
+4<br>
+6<br>
+done<br><br>
+
+<b>output</b><br><br>
+
+Invalid input<br>
+Maximum is 7<br>
+Minimum is 4<br><br>
+
 </ol>
+
+<h1>Finish this Course</h1>
