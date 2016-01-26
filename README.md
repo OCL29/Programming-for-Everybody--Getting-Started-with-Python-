@@ -71,4 +71,22 @@ Score Grade<br>
 <b>output</b><br><br>
 
 B<br><br>
+
+<li><h1>Chapter Four Functions</h1></li>
+
+<h3>Assignment 4.6</h3>
+
+This assignment uses raw_input to prompt a user for hours and rate to compute gross pay.<br>
+Pay the hourly rate for the hours up to 40 and 1.5 times the hourly rate for all hours worked above 40 hours.<br>
+Create a function do this computation<br><br>
+
+<b>input</b><br>
+
+45<br>
+10.50<br><br>
+
+<b>output</b><br><br>
+
+498.75<br><br>
+
 </ol>
